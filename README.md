@@ -4,8 +4,6 @@
 
 ![Imgur](https://imgur.com/FwDMNEM.gif)
 
-[Live Preview](https://rajshekhar26.github.io/cleanfolio)
-
 ## Instructions
 
 ### Setup
