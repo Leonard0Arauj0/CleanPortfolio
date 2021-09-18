@@ -11,8 +11,8 @@
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
+git clone https://github.com/Leonard0Arauj0/CleanPortifolio
+cd CleanPortifolio
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
